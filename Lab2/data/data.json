@@ -1,0 +1,36 @@
+[
+    {
+        "firstname": "Shariar Mahmud",
+        "lastname": "Sachcha",
+        "gender": "male",
+        "age": "0",
+        "fathersname": "ertert",
+        "mothersname": "retyeryre",
+        "username": "yujitu",
+        "pass": "Sachcha11@",
+        "email": "sachcha.bphs@gmail.com",
+        "Address": "Bashundhara",
+        "nid": "9410831646290",
+        "phone": "01710584800",
+        "ssc": "5",
+        "hsc": "5",
+        "hons": "3.73"
+    },
+    {
+        "firstname": "Shariar Mahmud",
+        "lastname": "Sachcha",
+        "gender": "male",
+        "age": "14",
+        "fathersname": "trt",
+        "mothersname": "werwer",
+        "username": "rteyrtyer",
+        "pass": "Sachcha11@",
+        "email": "sachcha.bphs@gmail.com",
+        "Address": "Bashundhara",
+        "nid": "3333333333333",
+        "phone": "01710584800",
+        "ssc": "4",
+        "hsc": "5",
+        "hons": "3.73"
+    }
+]
