@@ -4,7 +4,7 @@ include ("../model/db.php");
 $hasError=0;
 $nameErr = "";
 $name2Err = "";
-$Err = "";
+$fnameErr = "";
 $mnameErr = "";
 $genderErr = "";
 $dobErr = "";
